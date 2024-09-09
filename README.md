@@ -1,10 +1,13 @@
 # LeetCode Solutions
 
 ## Table of Contents
+
 ### By Difficulty
 - [easy](#easy-level)
 - [medium](#medium-level)
 - [hard](#hard-level)
+
+### By Tags
 - [Array](#array)
 - [Linked List](#linked-list)
 - [Math](#math)

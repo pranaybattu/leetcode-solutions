@@ -43,14 +43,17 @@ def generate_readme(problems_dict):
     # Create and write to README.md
     with open(readme_path, "w+") as f:
         f.write("# LeetCode Solutions\n\n")
-        f.write("## Table of Contents\n")
         
-        # Difficulty index
+        # Separate Table of Contents
+        f.write("## Table of Contents\n\n")
+        
+        # By Difficulty
         f.write("### By Difficulty\n")
         for level in levels:
             f.write(f"- [{level.lower()}](#{level.lower()}-level)\n")
-        
-        # Tag index
+
+        # By Tags
+        f.write("\n### By Tags\n")
         tags = sorted(set(tag for tags in (problem_info['tags'] for problem_info in problems_dict.values()) for tag in tags))  # Get all unique tags
         for tag in tags:
             f.write(f"- [{tag}](#{tag.replace(' ', '-').lower()})\n")
