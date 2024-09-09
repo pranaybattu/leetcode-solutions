@@ -7,7 +7,7 @@ from os.path import join, splitext, exists
 # Define the repository path and directories
 repo_path = os.getcwd()
 levels = ["Easy", "Medium", "Hard"]
-tree_path = "https://github.com/your-username/LeetCode-Solutions/tree/master/"
+tree_path = "https://github.com/pranaybattu/leetcode-solutions/tree/master/"
 json_file = join(repo_path, "problems.json")  # JSON file to store the tags and metadata
 
 # Function to load existing problems from the JSON file
