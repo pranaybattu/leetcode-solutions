@@ -19,5 +19,11 @@
         "tags": [
             "Linked List"
         ]
+    },
+    "2220. Minimum Bit Flips to Convert Number.cpp": {
+        "level": "Easy",
+        "tags": [
+            "Bit Manipulation"
+        ]
     }
 }

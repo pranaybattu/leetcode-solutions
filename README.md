@@ -9,6 +9,7 @@
 
 ### By Tags
 - [Array](#array)
+- [Bit Manipulation](#bit-manipulation)
 - [Linked List](#linked-list)
 - [Math](#math)
 - [Matrix](#matrix)
@@ -16,6 +17,7 @@
 ## easy Level
 S.no | Problem | Tags 
 --- | --- | --- 
+1 | [2220. Minimum Bit Flips to Convert Number](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.cpp) | Bit Manipulation
 
 ## medium Level
 S.no | Problem | Tags 
@@ -33,6 +35,11 @@ S.no | Problem | Difficulty
 --- | --- | --- 
 1 | [2028. Find Missing Observations](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/2028.%20Find%20Missing%20Observations.cpp) | Medium
 2 | [2326. Spiral Matrix IV](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/2326.%20Spiral%20Matrix%20IV.cpp) | Medium
+
+## Bit Manipulation
+S.no | Problem | Difficulty 
+--- | --- | --- 
+1 | [2220. Minimum Bit Flips to Convert Number](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.cpp) | Easy
 
 ## Linked List
 S.no | Problem | Difficulty 
