@@ -25,5 +25,12 @@
         "tags": [
             "Bit Manipulation"
         ]
+    },
+    "2615. Sum of Distances.cpp": {
+        "level": "Medium",
+        "tags": [
+            "Array",
+            "Prefix Sum"
+        ]
     }
 }
