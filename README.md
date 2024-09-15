@@ -14,6 +14,7 @@
 - [Math](#math)
 - [Matrix](#matrix)
 - [Prefix Sum](#prefix-sum)
+- [String](#string)
 
 ## easy Level
 S.no | Problem | Tags 
@@ -27,6 +28,7 @@ S.no | Problem | Tags
 2 | [2326. Spiral Matrix IV](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/2326.%20Spiral%20Matrix%20IV.cpp) | Array, Linked List, Matrix
 3 | [2807. Insert Greatest Common Divisors in Linked List](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/2807.%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.cpp) | Linked List
 4 | [2615. Sum of Distances](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/2615.%20Sum%20of%20Distances.cpp) | Array, Prefix Sum
+5 | [1371. Find the Longest Substring Containing Vowels in Even Counts](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/1371.%20Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts.cpp) | Bit Manipulation, String
 
 ## hard Level
 S.no | Problem | Tags 
@@ -43,6 +45,7 @@ S.no | Problem | Difficulty
 S.no | Problem | Difficulty 
 --- | --- | --- 
 1 | [2220. Minimum Bit Flips to Convert Number](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.cpp) | Easy
+2 | [1371. Find the Longest Substring Containing Vowels in Even Counts](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/1371.%20Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts.cpp) | Medium
 
 ## Linked List
 S.no | Problem | Difficulty 
@@ -64,3 +67,8 @@ S.no | Problem | Difficulty
 S.no | Problem | Difficulty 
 --- | --- | --- 
 1 | [2615. Sum of Distances](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/2615.%20Sum%20of%20Distances.cpp) | Medium
+
+## String
+S.no | Problem | Difficulty 
+--- | --- | --- 
+1 | [1371. Find the Longest Substring Containing Vowels in Even Counts](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/1371.%20Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts.cpp) | Medium

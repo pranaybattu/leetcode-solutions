@@ -32,5 +32,12 @@
             "Array",
             "Prefix Sum"
         ]
+    },
+    "1371. Find the Longest Substring Containing Vowels in Even Counts.cpp": {
+        "level": "Medium",
+        "tags": [
+            "Bit Manipulation",
+            "String"
+        ]
     }
 }
