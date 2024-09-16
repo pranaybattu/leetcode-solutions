@@ -29,6 +29,7 @@ S.no | Problem | Tags
 3 | [2807. Insert Greatest Common Divisors in Linked List](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/2807.%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.cpp) | Linked List
 4 | [2615. Sum of Distances](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/2615.%20Sum%20of%20Distances.cpp) | Array, Prefix Sum
 5 | [1371. Find the Longest Substring Containing Vowels in Even Counts](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/1371.%20Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts.cpp) | Bit Manipulation, String
+6 | [539. Minimum Time Difference](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/539.%20Minimum%20Time%20Difference.cpp) | Array, String
 
 ## hard Level
 S.no | Problem | Tags 
@@ -40,6 +41,7 @@ S.no | Problem | Difficulty
 1 | [2028. Find Missing Observations](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/2028.%20Find%20Missing%20Observations.cpp) | Medium
 2 | [2326. Spiral Matrix IV](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/2326.%20Spiral%20Matrix%20IV.cpp) | Medium
 3 | [2615. Sum of Distances](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/2615.%20Sum%20of%20Distances.cpp) | Medium
+4 | [539. Minimum Time Difference](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/539.%20Minimum%20Time%20Difference.cpp) | Medium
 
 ## Bit Manipulation
 S.no | Problem | Difficulty 
@@ -72,3 +74,4 @@ S.no | Problem | Difficulty
 S.no | Problem | Difficulty 
 --- | --- | --- 
 1 | [1371. Find the Longest Substring Containing Vowels in Even Counts](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/1371.%20Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts.cpp) | Medium
+2 | [539. Minimum Time Difference](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/539.%20Minimum%20Time%20Difference.cpp) | Medium

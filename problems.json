@@ -39,5 +39,12 @@
             "Bit Manipulation",
             "String"
         ]
+    },
+    "539. Minimum Time Difference.cpp": {
+        "level": "Medium",
+        "tags": [
+            "Array",
+            "String"
+        ]
     }
 }
