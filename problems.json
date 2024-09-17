@@ -46,5 +46,12 @@
             "Array",
             "String"
         ]
+    },
+    "884. Uncommon Words from Two Sentences.cpp": {
+        "level": "Easy",
+        "tags": [
+            "Hash Table",
+            "String"
+        ]
     }
 }
