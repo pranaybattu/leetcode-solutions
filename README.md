@@ -10,6 +10,7 @@
 ### By Tags
 - [Array](#array)
 - [Bit Manipulation](#bit-manipulation)
+- [Greedy](#greedy)
 - [Hash Table](#hash-table)
 - [Linked List](#linked-list)
 - [Math](#math)
@@ -32,6 +33,7 @@ S.no | Problem | Tags
 4 | [2615. Sum of Distances](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/2615.%20Sum%20of%20Distances.cpp) | Array, Prefix Sum
 5 | [1371. Find the Longest Substring Containing Vowels in Even Counts](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/1371.%20Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts.cpp) | Bit Manipulation, String
 6 | [539. Minimum Time Difference](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/539.%20Minimum%20Time%20Difference.cpp) | Array, String
+7 | [179. Largest Number](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/179.%20Largest%20Number.cpp) | Array, String, Greedy
 
 ## hard Level
 S.no | Problem | Tags 
@@ -44,12 +46,18 @@ S.no | Problem | Difficulty
 2 | [2326. Spiral Matrix IV](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/2326.%20Spiral%20Matrix%20IV.cpp) | Medium
 3 | [2615. Sum of Distances](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/2615.%20Sum%20of%20Distances.cpp) | Medium
 4 | [539. Minimum Time Difference](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/539.%20Minimum%20Time%20Difference.cpp) | Medium
+5 | [179. Largest Number](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/179.%20Largest%20Number.cpp) | Medium
 
 ## Bit Manipulation
 S.no | Problem | Difficulty 
 --- | --- | --- 
 1 | [2220. Minimum Bit Flips to Convert Number](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.cpp) | Easy
 2 | [1371. Find the Longest Substring Containing Vowels in Even Counts](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/1371.%20Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts.cpp) | Medium
+
+## Greedy
+S.no | Problem | Difficulty 
+--- | --- | --- 
+1 | [179. Largest Number](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/179.%20Largest%20Number.cpp) | Medium
 
 ## Hash Table
 S.no | Problem | Difficulty 
@@ -83,3 +91,4 @@ S.no | Problem | Difficulty
 1 | [1371. Find the Longest Substring Containing Vowels in Even Counts](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/1371.%20Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts.cpp) | Medium
 2 | [539. Minimum Time Difference](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/539.%20Minimum%20Time%20Difference.cpp) | Medium
 3 | [884. Uncommon Words from Two Sentences](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/884.%20Uncommon%20Words%20from%20Two%20Sentences.cpp) | Easy
+4 | [179. Largest Number](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/179.%20Largest%20Number.cpp) | Medium
