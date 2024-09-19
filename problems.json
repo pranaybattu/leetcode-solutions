@@ -69,5 +69,23 @@
             "String",
             "Recursion"
         ]
+    },
+    "98. Validate Binary Search Tree.cpp": {
+        "level": "Medium",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Search Tree",
+            "Binary Tree"
+        ]
+    },
+    "617. Merge Two Binary Trees.cpp": {
+        "level": "Easy",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+        ]
     }
 }

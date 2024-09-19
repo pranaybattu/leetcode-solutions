@@ -9,7 +9,11 @@
 
 ### By Tags
 - [Array](#array)
+- [Binary Search Tree](#binary-search-tree)
+- [Binary Tree](#binary-tree)
 - [Bit Manipulation](#bit-manipulation)
+- [Breadth-First Search](#breadth-first-search)
+- [Depth-First Search](#depth-first-search)
 - [Dynamic Programming](#dynamic-programming)
 - [Greedy](#greedy)
 - [Hash Table](#hash-table)
@@ -19,12 +23,14 @@
 - [Prefix Sum](#prefix-sum)
 - [Recursion](#recursion)
 - [String](#string)
+- [Tree](#tree)
 
 ## easy Level
 S.no | Problem | Tags 
 --- | --- | --- 
 1 | [2220. Minimum Bit Flips to Convert Number](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.cpp) | Bit Manipulation
 2 | [884. Uncommon Words from Two Sentences](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/884.%20Uncommon%20Words%20from%20Two%20Sentences.cpp) | Hash Table, String
+3 | [617. Merge Two Binary Trees](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/617.%20Merge%20Two%20Binary%20Trees.cpp) | Tree, Depth-First Search, Breadth-First Search, Binary Tree
 
 ## medium Level
 S.no | Problem | Tags 
@@ -37,6 +43,7 @@ S.no | Problem | Tags
 6 | [539. Minimum Time Difference](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/539.%20Minimum%20Time%20Difference.cpp) | Array, String
 7 | [179. Largest Number](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/179.%20Largest%20Number.cpp) | Array, String, Greedy
 8 | [241. Different Ways to Add Parentheses](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/241.%20Different%20Ways%20to%20Add%20Parentheses.cpp) | Dynamic Programming, String, Recursion
+9 | [98. Validate Binary Search Tree](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/98.%20Validate%20Binary%20Search%20Tree.cpp) | Tree, Depth-First Search, Binary Search Tree, Binary Tree
 
 ## hard Level
 S.no | Problem | Tags 
@@ -51,11 +58,33 @@ S.no | Problem | Difficulty
 4 | [539. Minimum Time Difference](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/539.%20Minimum%20Time%20Difference.cpp) | Medium
 5 | [179. Largest Number](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/179.%20Largest%20Number.cpp) | Medium
 
+## Binary Search Tree
+S.no | Problem | Difficulty 
+--- | --- | --- 
+1 | [98. Validate Binary Search Tree](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/98.%20Validate%20Binary%20Search%20Tree.cpp) | Medium
+
+## Binary Tree
+S.no | Problem | Difficulty 
+--- | --- | --- 
+1 | [98. Validate Binary Search Tree](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/98.%20Validate%20Binary%20Search%20Tree.cpp) | Medium
+2 | [617. Merge Two Binary Trees](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/617.%20Merge%20Two%20Binary%20Trees.cpp) | Easy
+
 ## Bit Manipulation
 S.no | Problem | Difficulty 
 --- | --- | --- 
 1 | [2220. Minimum Bit Flips to Convert Number](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.cpp) | Easy
 2 | [1371. Find the Longest Substring Containing Vowels in Even Counts](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/1371.%20Find%20the%20Longest%20Substring%20Containing%20Vowels%20in%20Even%20Counts.cpp) | Medium
+
+## Breadth-First Search
+S.no | Problem | Difficulty 
+--- | --- | --- 
+1 | [617. Merge Two Binary Trees](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/617.%20Merge%20Two%20Binary%20Trees.cpp) | Easy
+
+## Depth-First Search
+S.no | Problem | Difficulty 
+--- | --- | --- 
+1 | [98. Validate Binary Search Tree](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/98.%20Validate%20Binary%20Search%20Tree.cpp) | Medium
+2 | [617. Merge Two Binary Trees](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/617.%20Merge%20Two%20Binary%20Trees.cpp) | Easy
 
 ## Dynamic Programming
 S.no | Problem | Difficulty 
@@ -106,3 +135,9 @@ S.no | Problem | Difficulty
 3 | [884. Uncommon Words from Two Sentences](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/884.%20Uncommon%20Words%20from%20Two%20Sentences.cpp) | Easy
 4 | [179. Largest Number](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/179.%20Largest%20Number.cpp) | Medium
 5 | [241. Different Ways to Add Parentheses](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/241.%20Different%20Ways%20to%20Add%20Parentheses.cpp) | Medium
+
+## Tree
+S.no | Problem | Difficulty 
+--- | --- | --- 
+1 | [98. Validate Binary Search Tree](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/98.%20Validate%20Binary%20Search%20Tree.cpp) | Medium
+2 | [617. Merge Two Binary Trees](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/617.%20Merge%20Two%20Binary%20Trees.cpp) | Easy
