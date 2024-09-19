@@ -31,6 +31,7 @@ S.no | Problem | Tags
 1 | [2220. Minimum Bit Flips to Convert Number](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/2220.%20Minimum%20Bit%20Flips%20to%20Convert%20Number.cpp) | Bit Manipulation
 2 | [884. Uncommon Words from Two Sentences](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/884.%20Uncommon%20Words%20from%20Two%20Sentences.cpp) | Hash Table, String
 3 | [617. Merge Two Binary Trees](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/617.%20Merge%20Two%20Binary%20Trees.cpp) | Tree, Depth-First Search, Breadth-First Search, Binary Tree
+4 | [226. Invert Binary Tree](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/226.%20Invert%20Binary%20Tree.cpp) | Tree, Depth-First Search, Breadth-First Search, Binary Tree
 
 ## medium Level
 S.no | Problem | Tags 
@@ -68,6 +69,7 @@ S.no | Problem | Difficulty
 --- | --- | --- 
 1 | [98. Validate Binary Search Tree](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/98.%20Validate%20Binary%20Search%20Tree.cpp) | Medium
 2 | [617. Merge Two Binary Trees](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/617.%20Merge%20Two%20Binary%20Trees.cpp) | Easy
+3 | [226. Invert Binary Tree](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/226.%20Invert%20Binary%20Tree.cpp) | Easy
 
 ## Bit Manipulation
 S.no | Problem | Difficulty 
@@ -79,12 +81,14 @@ S.no | Problem | Difficulty
 S.no | Problem | Difficulty 
 --- | --- | --- 
 1 | [617. Merge Two Binary Trees](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/617.%20Merge%20Two%20Binary%20Trees.cpp) | Easy
+2 | [226. Invert Binary Tree](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/226.%20Invert%20Binary%20Tree.cpp) | Easy
 
 ## Depth-First Search
 S.no | Problem | Difficulty 
 --- | --- | --- 
 1 | [98. Validate Binary Search Tree](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/98.%20Validate%20Binary%20Search%20Tree.cpp) | Medium
 2 | [617. Merge Two Binary Trees](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/617.%20Merge%20Two%20Binary%20Trees.cpp) | Easy
+3 | [226. Invert Binary Tree](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/226.%20Invert%20Binary%20Tree.cpp) | Easy
 
 ## Dynamic Programming
 S.no | Problem | Difficulty 
@@ -141,3 +145,4 @@ S.no | Problem | Difficulty
 --- | --- | --- 
 1 | [98. Validate Binary Search Tree](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/98.%20Validate%20Binary%20Search%20Tree.cpp) | Medium
 2 | [617. Merge Two Binary Trees](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/617.%20Merge%20Two%20Binary%20Trees.cpp) | Easy
+3 | [226. Invert Binary Tree](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/226.%20Invert%20Binary%20Tree.cpp) | Easy

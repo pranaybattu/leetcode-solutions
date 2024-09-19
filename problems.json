@@ -87,5 +87,14 @@
             "Breadth-First Search",
             "Binary Tree"
         ]
+    },
+    "226. Invert Binary Tree.cpp": {
+        "level": "Easy",
+        "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+        ]
     }
 }
