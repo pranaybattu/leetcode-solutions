@@ -61,5 +61,13 @@
             "String",
             "Greedy"
         ]
+    },
+    "241. Different Ways to Add Parentheses.cpp": {
+        "level": "Medium",
+        "tags": [
+            "Dynamic Programming",
+            "String",
+            "Recursion"
+        ]
     }
 }
