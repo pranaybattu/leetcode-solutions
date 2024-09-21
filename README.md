@@ -23,6 +23,7 @@
 - [Prefix Sum](#prefix-sum)
 - [Recursion](#recursion)
 - [String](#string)
+- [String Matching](#string-matching)
 - [Tree](#tree)
 
 ## easy Level
@@ -49,6 +50,7 @@ S.no | Problem | Tags
 ## hard Level
 S.no | Problem | Tags 
 --- | --- | --- 
+1 | [214. Shortest Palindrome](https://github.com/pranaybattu/leetcode-solutions/tree/master/Hard/214.%20Shortest%20Palindrome.cpp) | String, String Matching
 
 ## Array
 S.no | Problem | Difficulty 
@@ -139,6 +141,12 @@ S.no | Problem | Difficulty
 3 | [884. Uncommon Words from Two Sentences](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/884.%20Uncommon%20Words%20from%20Two%20Sentences.cpp) | Easy
 4 | [179. Largest Number](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/179.%20Largest%20Number.cpp) | Medium
 5 | [241. Different Ways to Add Parentheses](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/241.%20Different%20Ways%20to%20Add%20Parentheses.cpp) | Medium
+6 | [214. Shortest Palindrome](https://github.com/pranaybattu/leetcode-solutions/tree/master/Hard/214.%20Shortest%20Palindrome.cpp) | Hard
+
+## String Matching
+S.no | Problem | Difficulty 
+--- | --- | --- 
+1 | [214. Shortest Palindrome](https://github.com/pranaybattu/leetcode-solutions/tree/master/Hard/214.%20Shortest%20Palindrome.cpp) | Hard
 
 ## Tree
 S.no | Problem | Difficulty 

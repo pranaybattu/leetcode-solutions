@@ -96,5 +96,12 @@
             "Breadth-First Search",
             "Binary Tree"
         ]
+    },
+    "214. Shortest Palindrome.cpp": {
+        "level": "Hard",
+        "tags": [
+            "String",
+            "String Matching"
+        ]
     }
 }
