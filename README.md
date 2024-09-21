@@ -25,6 +25,7 @@
 - [String](#string)
 - [String Matching](#string-matching)
 - [Tree](#tree)
+- [Trie](#trie)
 
 ## easy Level
 S.no | Problem | Tags 
@@ -46,6 +47,7 @@ S.no | Problem | Tags
 7 | [179. Largest Number](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/179.%20Largest%20Number.cpp) | Array, String, Greedy
 8 | [241. Different Ways to Add Parentheses](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/241.%20Different%20Ways%20to%20Add%20Parentheses.cpp) | Dynamic Programming, String, Recursion
 9 | [98. Validate Binary Search Tree](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/98.%20Validate%20Binary%20Search%20Tree.cpp) | Tree, Depth-First Search, Binary Search Tree, Binary Tree
+10 | [386. Lexicographical Numbers](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/386.%20Lexicographical%20Numbers.cpp) | Depth-First Search, Trie
 
 ## hard Level
 S.no | Problem | Tags 
@@ -91,6 +93,7 @@ S.no | Problem | Difficulty
 1 | [98. Validate Binary Search Tree](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/98.%20Validate%20Binary%20Search%20Tree.cpp) | Medium
 2 | [617. Merge Two Binary Trees](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/617.%20Merge%20Two%20Binary%20Trees.cpp) | Easy
 3 | [226. Invert Binary Tree](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/226.%20Invert%20Binary%20Tree.cpp) | Easy
+4 | [386. Lexicographical Numbers](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/386.%20Lexicographical%20Numbers.cpp) | Medium
 
 ## Dynamic Programming
 S.no | Problem | Difficulty 
@@ -154,3 +157,8 @@ S.no | Problem | Difficulty
 1 | [98. Validate Binary Search Tree](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/98.%20Validate%20Binary%20Search%20Tree.cpp) | Medium
 2 | [617. Merge Two Binary Trees](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/617.%20Merge%20Two%20Binary%20Trees.cpp) | Easy
 3 | [226. Invert Binary Tree](https://github.com/pranaybattu/leetcode-solutions/tree/master/Easy/226.%20Invert%20Binary%20Tree.cpp) | Easy
+
+## Trie
+S.no | Problem | Difficulty 
+--- | --- | --- 
+1 | [386. Lexicographical Numbers](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/386.%20Lexicographical%20Numbers.cpp) | Medium

@@ -103,5 +103,12 @@
             "String",
             "String Matching"
         ]
+    },
+    "386. Lexicographical Numbers.cpp": {
+        "level": "Medium",
+        "tags": [
+            "Depth-First Search",
+            "Trie"
+        ]
     }
 }
