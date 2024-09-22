@@ -53,6 +53,7 @@ S.no | Problem | Tags
 S.no | Problem | Tags 
 --- | --- | --- 
 1 | [214. Shortest Palindrome](https://github.com/pranaybattu/leetcode-solutions/tree/master/Hard/214.%20Shortest%20Palindrome.cpp) | String, String Matching
+2 | [440. K-th Smallest in Lexicographical Order](https://github.com/pranaybattu/leetcode-solutions/tree/master/Hard/440.%20K-th%20Smallest%20in%20Lexicographical%20Order.cpp) | Trie, Math
 
 ## Array
 S.no | Problem | Difficulty 
@@ -120,6 +121,7 @@ S.no | Problem | Difficulty
 S.no | Problem | Difficulty 
 --- | --- | --- 
 1 | [2028. Find Missing Observations](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/2028.%20Find%20Missing%20Observations.cpp) | Medium
+2 | [440. K-th Smallest in Lexicographical Order](https://github.com/pranaybattu/leetcode-solutions/tree/master/Hard/440.%20K-th%20Smallest%20in%20Lexicographical%20Order.cpp) | Hard
 
 ## Matrix
 S.no | Problem | Difficulty 
@@ -162,3 +164,4 @@ S.no | Problem | Difficulty
 S.no | Problem | Difficulty 
 --- | --- | --- 
 1 | [386. Lexicographical Numbers](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/386.%20Lexicographical%20Numbers.cpp) | Medium
+2 | [440. K-th Smallest in Lexicographical Order](https://github.com/pranaybattu/leetcode-solutions/tree/master/Hard/440.%20K-th%20Smallest%20in%20Lexicographical%20Order.cpp) | Hard

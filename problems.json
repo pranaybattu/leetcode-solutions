@@ -110,5 +110,12 @@
             "Depth-First Search",
             "Trie"
         ]
+    },
+    "440. K-th Smallest in Lexicographical Order.cpp": {
+        "level": "Hard",
+        "tags": [
+            "Trie",
+            "Math"
+        ]
     }
 }
