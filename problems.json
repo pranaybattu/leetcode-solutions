@@ -117,5 +117,12 @@
             "Trie",
             "Math"
         ]
+    },
+    "2707. Extra Characters in a String.cpp": {
+        "level": "Medium",
+        "tags": [
+            "Dynamic Programming",
+            "Trie"
+        ]
     }
 }

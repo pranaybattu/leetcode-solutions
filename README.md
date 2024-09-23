@@ -48,6 +48,7 @@ S.no | Problem | Tags
 8 | [241. Different Ways to Add Parentheses](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/241.%20Different%20Ways%20to%20Add%20Parentheses.cpp) | Dynamic Programming, String, Recursion
 9 | [98. Validate Binary Search Tree](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/98.%20Validate%20Binary%20Search%20Tree.cpp) | Tree, Depth-First Search, Binary Search Tree, Binary Tree
 10 | [386. Lexicographical Numbers](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/386.%20Lexicographical%20Numbers.cpp) | Depth-First Search, Trie
+11 | [2707. Extra Characters in a String](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/2707.%20Extra%20Characters%20in%20a%20String.cpp) | Dynamic Programming, Trie
 
 ## hard Level
 S.no | Problem | Tags 
@@ -100,6 +101,7 @@ S.no | Problem | Difficulty
 S.no | Problem | Difficulty 
 --- | --- | --- 
 1 | [241. Different Ways to Add Parentheses](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/241.%20Different%20Ways%20to%20Add%20Parentheses.cpp) | Medium
+2 | [2707. Extra Characters in a String](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/2707.%20Extra%20Characters%20in%20a%20String.cpp) | Medium
 
 ## Greedy
 S.no | Problem | Difficulty 
@@ -165,3 +167,4 @@ S.no | Problem | Difficulty
 --- | --- | --- 
 1 | [386. Lexicographical Numbers](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/386.%20Lexicographical%20Numbers.cpp) | Medium
 2 | [440. K-th Smallest in Lexicographical Order](https://github.com/pranaybattu/leetcode-solutions/tree/master/Hard/440.%20K-th%20Smallest%20in%20Lexicographical%20Order.cpp) | Hard
+3 | [2707. Extra Characters in a String](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/2707.%20Extra%20Characters%20in%20a%20String.cpp) | Medium
