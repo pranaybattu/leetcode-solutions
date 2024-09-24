@@ -49,6 +49,7 @@ S.no | Problem | Tags
 9 | [98. Validate Binary Search Tree](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/98.%20Validate%20Binary%20Search%20Tree.cpp) | Tree, Depth-First Search, Binary Search Tree, Binary Tree
 10 | [386. Lexicographical Numbers](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/386.%20Lexicographical%20Numbers.cpp) | Depth-First Search, Trie
 11 | [2707. Extra Characters in a String](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/2707.%20Extra%20Characters%20in%20a%20String.cpp) | Dynamic Programming, Trie
+12 | [3043. Find the Length of the Longest Common Prefix](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/3043.%20Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix.cpp) | Trie
 
 ## hard Level
 S.no | Problem | Tags 
@@ -168,3 +169,4 @@ S.no | Problem | Difficulty
 1 | [386. Lexicographical Numbers](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/386.%20Lexicographical%20Numbers.cpp) | Medium
 2 | [440. K-th Smallest in Lexicographical Order](https://github.com/pranaybattu/leetcode-solutions/tree/master/Hard/440.%20K-th%20Smallest%20in%20Lexicographical%20Order.cpp) | Hard
 3 | [2707. Extra Characters in a String](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/2707.%20Extra%20Characters%20in%20a%20String.cpp) | Medium
+4 | [3043. Find the Length of the Longest Common Prefix](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/3043.%20Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix.cpp) | Medium

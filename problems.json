@@ -124,5 +124,11 @@
             "Dynamic Programming",
             "Trie"
         ]
+    },
+    "3043. Find the Length of the Longest Common Prefix.cpp": {
+        "level": "Medium",
+        "tags": [
+            "Trie"
+        ]
     }
 }
