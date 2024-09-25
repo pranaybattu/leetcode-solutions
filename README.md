@@ -56,6 +56,7 @@ S.no | Problem | Tags
 --- | --- | --- 
 1 | [214. Shortest Palindrome](https://github.com/pranaybattu/leetcode-solutions/tree/master/Hard/214.%20Shortest%20Palindrome.cpp) | String, String Matching
 2 | [440. K-th Smallest in Lexicographical Order](https://github.com/pranaybattu/leetcode-solutions/tree/master/Hard/440.%20K-th%20Smallest%20in%20Lexicographical%20Order.cpp) | Trie, Math
+3 | [2416. Sum of Prefix Scores of Strings](https://github.com/pranaybattu/leetcode-solutions/tree/master/Hard/2416.%20Sum%20of%20Prefix%20Scores%20of%20Strings.cpp) | Trie
 
 ## Array
 S.no | Problem | Difficulty 
@@ -170,3 +171,4 @@ S.no | Problem | Difficulty
 2 | [440. K-th Smallest in Lexicographical Order](https://github.com/pranaybattu/leetcode-solutions/tree/master/Hard/440.%20K-th%20Smallest%20in%20Lexicographical%20Order.cpp) | Hard
 3 | [2707. Extra Characters in a String](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/2707.%20Extra%20Characters%20in%20a%20String.cpp) | Medium
 4 | [3043. Find the Length of the Longest Common Prefix](https://github.com/pranaybattu/leetcode-solutions/tree/master/Medium/3043.%20Find%20the%20Length%20of%20the%20Longest%20Common%20Prefix.cpp) | Medium
+5 | [2416. Sum of Prefix Scores of Strings](https://github.com/pranaybattu/leetcode-solutions/tree/master/Hard/2416.%20Sum%20of%20Prefix%20Scores%20of%20Strings.cpp) | Hard
